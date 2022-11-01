@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adnan Üzülmez
-- 👀 I’m interested in Front-End and Back-End Technologies
+- 👀 I’m interested in Front-End Technologies
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me adnanuzulmez@outlook.com
 
